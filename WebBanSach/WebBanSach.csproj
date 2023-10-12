@@ -230,6 +230,10 @@
     <Content Include="Content\assets\css\mainlayout.css" />
     <Content Include="Content\assets\css\snipped.css" />
     <Content Include="Content\assets\css\trangchustyle.css" />
+    <Content Include="Content\assets\policy\policy1.png" />
+    <Content Include="Content\assets\policy\policy2.png" />
+    <Content Include="Content\assets\policy\policy3.png" />
+    <Content Include="Content\assets\policy\policy4.png" />
     <Content Include="Content\assets\scripts\option-selectors.js" />
     <Content Include="Content\assets\sliders\slider_1.jpg" />
     <Content Include="Content\assets\sliders\slider_2.jpg" />

@@ -227,6 +227,7 @@
     <Content Include="Content\assets\ajax\libs\jquery-cookie\1.4.1\jquery.cookie.min.js" />
     <Content Include="Content\assets\ajax\libs\jqueryui-touch-punch\0.2.3\jquery.ui.touch-punch.min.js" />
     <Content Include="Content\assets\ajax\libs\jquery\2.2.3\jquery.min.js" />
+    <Content Include="Content\assets\css\aboutcs.css" />
     <Content Include="Content\assets\css\contactcs.css" />
     <Content Include="Content\assets\css\faqstyle.css" />
     <Content Include="Content\assets\css\mainlayout.css" />

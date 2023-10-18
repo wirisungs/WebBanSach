@@ -127,7 +127,7 @@ ol, ul {
     margin-bottom: 10px;
 }
 
-ul {
+.row ul {
     display: block;
     list-style-type: none;
     margin-block-start: 1em;

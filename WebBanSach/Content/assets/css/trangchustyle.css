@@ -2916,6 +2916,16 @@ h3 a {
 #style-GZQRG.style-GZQRG {
     width: 360px;
     margin-right: 30px;
-}  
+}
 
 
+carousel-slider .slider1 {
+    box-sizing: border-box;
+    width: auto;
+    border: 0px none rgb(73, 131, 116);
+    max-width: 100%;
+    height: auto;
+    display: block;
+    transform-style: preserve-3d;
+    vertical-align: middle;
+}
